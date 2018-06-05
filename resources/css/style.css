@@ -18,3 +18,15 @@ a {
   font-weight: bold;
   font-size: 18px;
 }
+
+#sub h2 {
+  color: black;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#bullets .subs {
+  color: black;
+  font-size: 23px;
+  font-weight: bold;
+}
